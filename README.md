@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer in the Making 🚀 | React Enthusiast ⚛️ | Always Growing 🌱 | Crafting Clean Code ✨</h3>  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Coding GIF" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400"/>
 </p>
 
 <hr/>
