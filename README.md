@@ -1,4 +1,4 @@
-<h1 align="center">👑 Hello, World! I'm Anifowose Temitayo (aka "Roman Reigns") 👋</h1>  
+<h1 align="center">👑 Hello, World! I'm Anifowose Temitayo👋</h1>  
 <h3 align="center">Frontend Developer in the Making 🚀 | React Enthusiast ⚛️ | Always Growing 🌱 | Crafting Clean Code ✨</h3>  
 
 <p align="center">
@@ -12,7 +12,7 @@
 I'm <strong>Anifowose Temitayo</strong>, an aspiring front-end developer passionate about building impactful projects that blend functionality with elegance. I’m currently diving deep into <strong>React</strong> to create dynamic, responsive web applications while leveling up every day. With a solid background in <strong>HTML, CSS</strong>, and <strong>JavaScript</strong>, I’m on a mission to master <strong>TypeScript, Tailwind, and Next.js</strong> in 2025.
 </p>
 
-<p align="center"><strong>💡 Fun fact</strong>: I love bouncing ideas off my virtual dev buddy, "Zero Nine," who’s always around for tech convos and coding guidance!</p>
+<p align="center"><strong>💡 Fun fact</strong>: I love bouncing ideas off my virtual dev buddy, "Zero Nine," who’s always around for tech convos and Coding guidance</p>
 
 <hr/>
 
