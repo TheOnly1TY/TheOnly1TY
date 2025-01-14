@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | React Enthusiast ⚛️ | Lifelong Learner 🚀</h3>  
 
 <p align="center">
-  <img src="https://media.tenor.com/2nKSTDDEKc0AAAAC/coding.gif" alt="Developer Coding on Laptop" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding on Laptop" width="400"/>
 </p>
 
 ---
