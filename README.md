@@ -50,4 +50,28 @@ I’m <strong>Anifowose Temitayo</strong>, an aspiring frontend developer dedica
 
 <h2 align="center">🌐 Let's Connect</h2>
 <p align="center">  
-  <a href="https://twitter.com/dev_t
+  <a href="https://twitter.com/dev_temitayo" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/> 
+  </a>  
+  <a href="https://linkedin.com/in/temitayo-anifowose" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/> 
+  </a>  
+</p>  
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theonly1ty&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theonly1ty&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theonly1ty&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<h2 align="center">⚡ Motto</h2>
+<p align="center">“Every line of code is a step closer to mastery. Let’s build greatness together!”</p>
