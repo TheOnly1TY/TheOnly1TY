@@ -8,6 +8,9 @@
 ---
 
 <h2 align="center">💼 About Me</h2>
+<p align="center">
+I’m <strong>Anifowose Temitayo</strong>, an aspiring frontend developer dedicated to crafting intuitive and engaging user interfaces. With a strong foundation in <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, I am currently deepening my expertise in <strong>React</strong> to build scalable, responsive web applications. My 2025 goals include mastering <strong>TypeScript</strong>, <strong>Tailwind CSS</strong>, and <strong>Next.js</strong>, and contributing to impactful projects.
+</p>
 
 
 <p align="center">When I’m not coding, I enjoy brainstorming ideas, exploring open source, and engaging in tech conversations to grow my skills and network.</p>
