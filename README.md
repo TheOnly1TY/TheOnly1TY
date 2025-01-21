@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, World! I'm Temitayo</h1>  
 <h3 align="center">Frontend Developer | React Enthusiast ⚛️ | Lifelong Learner 🚀</h3>  
 
-<p align="center">
+<p align="center"
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding on Laptop" width="400"/>
 </p>
 
