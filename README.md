@@ -23,7 +23,7 @@ alt="Typing SVG" /></a>
 
 ## 📚 *About Me*
 
-https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFxOXBxZHdoamp2bTk0OXo2NGhsdGNuc3lseW1vaXZmZzFvajFkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif
+![GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFxOXBxZHdoamp2bTk0OXo2NGhsdGNuc3lseW1vaXZmZzFvajFkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif)
 
 Hey! I’m *Anifowose Temitayo* 👨‍💻, an aspiring frontend developer dedicated to crafting intuitive and engaging user interfaces.  
 With a strong foundation in *HTML, **CSS, and **JavaScript, I am currently deepening my expertise in **React* to build scalable, responsive web applications.
