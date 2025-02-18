@@ -1,68 +1,62 @@
-<h1 align="center">👋 Hello, World! I'm Temitayo</h1>  
-<h3 align="center">Frontend Developer | React Enthusiast ⚛️ | Lifelong Learner 🚀</h3>  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thelius1&label=Profile%20views&color=0e75b6&style=flat" alt="thelius1" /> </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding on Laptop" width="400"/>
-</p>
+<div align="center">
+  <h1 style="color: #008afa;">👋 Hello, World! I'm Temitayo</h1>
 
----
+<a href="https://git.io/typing-svg"><img
+src="https://readme-typing-svg.demolab.com?font=Kanit&size=30&pause=3000&color=008AFA&background=FAFAFA00&center=true&width=600&lines=Frontend+Developer;React+Enthusiast;Lifelong+Learner;Let's+Build+Greatness+Together!"
+alt="Typing SVG" /></a>
 
-<h2 align="center">💼 About Me</h2>
-<p align="center">
-I’m <strong>Anifowose Temitayo</strong>, an aspiring frontend developer dedicated to crafting intuitive and engaging user interfaces. With a strong foundation in <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, I am currently deepening my expertise in <strong>React</strong> to build scalable, responsive web applications. My 2025 goals include mastering <strong>TypeScript</strong>, <strong>Tailwind CSS</strong>, and <strong>Next.js</strong>, and contributing to impactful projects.
-</p>
-
-
-<p align="center">When I’m not coding, I enjoy brainstorming ideas, exploring open source, and engaging in tech conversations to grow my skills and network.</p>
-
----
-
-<h2 align="center">🛠️ Tech Skills</h2>
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> 
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> 
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a>  
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
-  </a>  
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
+<p>
+  <a href="https://github.com/theonly1ty">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/temitayo-anifowose">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/dev_temitayo">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </p>
+</div>
 
 ---
 
-<h2 align="center">📈 What I'm Working On</h2>
-<ul>
-  <li>🚀 Advancing my React skills to build high-quality web applications.</li>
-  <li>💻 Exploring <strong>TypeScript</strong>, <strong>Tailwind CSS</strong>, and <strong>Next.js</strong>.</li>
-  <li>🎯 Contributing to open source projects to grow as a developer.</li>
-  <li>📚 Taking on <strong>Frontend Mentor challenges</strong> to enhance my problem-solving abilities.</li>
-  <li>🔍 Learning best practices from senior developers and improving my GitHub profile.</li>
-</ul>
+## 📚 *About Me*
+
+![Developer Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+Hey! I’m *Anifowose Temitayo* 👨‍💻, an aspiring frontend developer dedicated to crafting intuitive and engaging user interfaces.  
+With a strong foundation in *HTML, **CSS, and **JavaScript, I am currently deepening my expertise in **React* to build scalable, responsive web applications.
+
+### 🎯 My 2025 Goals:
+- Master *TypeScript, **Tailwind CSS, and **Next.js*.
+- Build impactful projects and contribute to open source.
+- Collaborate with like-minded developers and grow my network.
+
+When I’m not coding, I enjoy brainstorming ideas, exploring open source, and engaging in tech conversations to improve my craft.
 
 ---
 
-<h2 align="center">🌐 Let's Connect</h2>
-<p align="center">  
-  <a href="https://twitter.com/dev_temitayo" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/> 
-  </a>  
-  <a href="https://linkedin.com/in/temitayo-anifowose" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/> 
-  </a>  
-</p>  
+### 🔧 *Tech Stack & Tools:*
+
+I work with various technologies to bring ideas to life:
+
+|                            |                            |                            |                            |                            |
+|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|
+| [![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) | [![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) | [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/) | [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) |
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 🚀 *What I'm Working On*
+- Advancing my *React* skills to build high-quality web applications.
+- Exploring *TypeScript, **Tailwind CSS, and **Next.js*.
+- Contributing to *open source* projects to sharpen my skills.
+- Taking on *Frontend Mentor challenges* to improve my problem-solving abilities.
+- Learning from *senior developers* and refining my *GitHub profile*.
+
+---
+
+## 📊 *GitHub Stats*
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theonly1ty&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
@@ -75,5 +69,5 @@ I’m <strong>Anifowose Temitayo</strong>, an aspiring frontend developer dedica
 
 ---
 
-<h2 align="center">⚡ Motto</h2>
-<p align="center">“Every line of code is a step closer to mastery. Let’s build greatness together!”</p>
+## ⚡ *Motto*
+*“Every line of code is a step closer to mastery. Let’s build greatness together!”*
