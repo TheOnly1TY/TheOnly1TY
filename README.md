@@ -16,9 +16,13 @@ alt="Typing SVG" /></a>
   <a href="https://twitter.com/dev_temitayo">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-    <a href="anifowosetemitayo5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=email&logoColor=white" alt="Email">
-  </a>
+<a href="mailto:anifowosetemitayo5@gmail.com">
+  <img src="https://img.shields.io/badge/Email-anifowosetemitayo5%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<a href="https://wa.me/2348164948151">
+  <img src="https://img.shields.io/badge/WhatsApp-08164948151-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
 </p>
 </div>
 
