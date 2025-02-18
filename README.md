@@ -23,8 +23,7 @@ alt="Typing SVG" /></a>
 
 ## 📚 *About Me*
 
-<iframe src="https://giphy.com/embed/3oEjI6SIIHBdRxXI40" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-<p><a href="https://giphy.com/gifs/typing-3oEjI6SIIHBdRxXI40">via GIPHY</a></p>
+<img src="https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Typing on Keyboard">
 
 Hey! I’m *Anifowose Temitayo* 👨‍💻, an aspiring frontend developer dedicated to crafting intuitive and engaging user interfaces.  
 With a strong foundation in *HTML, **CSS, and **JavaScript, I am currently deepening my expertise in **React* to build scalable, responsive web applications.
