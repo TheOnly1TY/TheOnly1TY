@@ -17,7 +17,7 @@ alt="Typing SVG" /></a>
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
     <a href="anifowosetemitayo5@gmail.com">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=email&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=email&logoColor=white" alt="Email">
   </a>
 </p>
 </div>
