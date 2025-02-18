@@ -23,7 +23,7 @@ alt="Typing SVG" /></a>
 
 ## 📚 *About Me*
 
-![Developer Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Typing on Keyboard](https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b9523h12jzbpazg3ac32ccr2qppjlfzn1w4qpaecfof0&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 
 Hey! I’m *Anifowose Temitayo* 👨‍💻, an aspiring frontend developer dedicated to crafting intuitive and engaging user interfaces.  
 With a strong foundation in *HTML, **CSS, and **JavaScript, I am currently deepening my expertise in **React* to build scalable, responsive web applications.
