@@ -32,11 +32,11 @@ alt="Typing SVG" /></a>
 
 ![GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFxOXBxZHdoamp2bTk0OXo2NGhsdGNuc3lseW1vaXZmZzFvajFkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif)
 
-Hey! I’m *Anifowose Temitayo* 👨‍💻, an aspiring frontend developer dedicated to crafting intuitive and engaging user interfaces.  
-With a strong foundation in *HTML, **CSS, and **JavaScript, I am currently deepening my expertise in **React* to build scalable, responsive web applications.
+Hey! I’m *Anifowose Temitayo* 👨‍💻, an frontend developer dedicated to crafting intuitive and engaging user interfaces.  
+With a strong foundation in *HTML, **CSS, **JavaScript, **React, and **TailwindCSS I am currently deepening my expertise in **React* to build scalable, responsive web applications.
 
 ### 🎯 My 2025 Goals:
-- Master *TypeScript, **Tailwind CSS, and **Next.js*.
+- Master *TypeScript, **Next.js*, and venture in building application using**AI.
 - Build impactful projects and contribute to open source.
 - Collaborate with like-minded developers and grow my network.
 
@@ -56,7 +56,7 @@ I work with various technologies to bring ideas to life:
 
 ## 🚀 *What I'm Working On*
 - Advancing my *React* skills to build high-quality web applications.
-- Exploring *TypeScript, **Tailwind CSS, and **Next.js*.
+- Exploring *TypeScript, **Next.js, and **AI*.
 - Contributing to *open source* projects to sharpen my skills.
 - Taking on *Frontend Mentor challenges* to improve my problem-solving abilities.
 - Learning from *senior developers* and refining my *GitHub profile*.
@@ -77,4 +77,4 @@ I work with various technologies to bring ideas to life:
 ---
 
 ## ⚡ *Motto*
-*“Every line of code is a step closer to mastery. Let’s build greatness together!”*
+*“Every line of code is a step closer to mastery. Let’s work together!”*
