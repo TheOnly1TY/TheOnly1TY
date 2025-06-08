@@ -16,6 +16,9 @@ alt="Typing SVG" /></a>
   <a href="https://twitter.com/dev_temitayo">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
+    <a href="https://www.tiktok.com/@dev_temitayo1">
+    <img src="https://img.shields.io/badge/Tiktok-181717?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok">
+  </a>
 <a href="mailto:anifowosetemitayo5@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
@@ -23,6 +26,7 @@ alt="Typing SVG" /></a>
 <a href="https://wa.me/2348164948151">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
+  
 </p>
 </div>
 
