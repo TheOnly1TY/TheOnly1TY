@@ -54,7 +54,7 @@ I work with various technologies to bring ideas to life:
 
 |                            |                            |                            |                            |                            |
 |----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|
-| [![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) | [![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) | [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/) | [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) 
+| [![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) | [![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) | [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/) | [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) | [![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com/docs)
 
 ---
 
