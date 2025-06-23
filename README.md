@@ -54,8 +54,8 @@ I work with various technologies to bring ideas to life:
 
 | [![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) | [![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) | [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/) | [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) | [![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com/docs) |
 |-----------------------------|-----------------------------|-----------------------------|----------------------------|----------------------------|-------------------------------|
-| [![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org/) | [![React Query](https://skillicons.dev/icons?i=reactquery)](https://tanstack.com/query/latest) | | [![Styled Components](https://skillicons.dev/icons?i=styledcomponents)](https://styled-components.com/docs) | 
-|
+| [![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org/) | <a href="https://tanstack.com/query/latest"><img src="https://img.shields.io/badge/React_Query-ff4154?style=for-the-badge&logo=reactquery&logoColor=white" height="28"/></a> | [![Context API](https://skillicons.dev/icons?i=react)](https://reactjs.org/docs/context.html) | [![Styled Components](https://skillicons.dev/icons?i=styledcomponents)](https://styled-components.com/docs) | [![React Hook Form](https://skillicons.dev/icons?i=reacthookform)](https://react-hook-form.com/) | [![React Router](https://skillicons.dev/icons?i=reactrouter)](https://reactrouter.com/en/main) |
+
 
 ---
 
