@@ -1,4 +1,3 @@
-
 <div align="center">
   <h1 style="color: #008afa;">👋 Hello, World! I'm Temitayo</h1>
 
@@ -16,17 +15,25 @@ alt="Typing SVG" /></a>
   <a href="https://twitter.com/dev_temitayo">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-    <a href="https://www.tiktok.com/@dev_temitayo1">
+  <a href="https://www.tiktok.com/@dev_temitayo1">
     <img src="https://img.shields.io/badge/Tiktok-181717?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok">
   </a>
-<a href="mailto:anifowosetemitayo5@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+  <a href="mailto:anifowosetemitayo5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://wa.me/2348164948151">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</p>
 
-<a href="https://wa.me/2348164948151">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-</a>
-  
+<!-- Visitors Count -->
+<img src="https://komarev.com/ghpvc/?username=theonly1ty&style=flat-square&color=008afa" alt="Profile views" />
+
+<!-- Twitter Badge -->
+<p>
+  <a href="https://twitter.com/dev_temitayo">
+    <img src="https://img.shields.io/twitter/follow/dev_temitayo?style=social" alt="Twitter Follow">
+  </a>
 </p>
 </div>
 
@@ -61,9 +68,26 @@ I work with various technologies to bring ideas to life:
 ## 🚀 *What I'm Working On*
 - Advancing my *React* skills to build high-quality web applications.
 - Exploring *TypeScript, **Next.js, and **AI*.
-- Contributing to *open source* projects to sharpen my skills.
+- Currently working as an internship at Xynder 
+- Collaborating at *Lemren* - building the largest marketplace for cars
 - Taking on *Frontend Mentor challenges* to improve my problem-solving abilities.
-- Learning from *senior developers* and refining my *GitHub profile*.
+- Learning from *senior developers*
+
+---
+
+## 📈 *WakaTime Stats*
+
+<!-- Replace 'theonly1ty' with your WakaTime username -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=theonly1ty&theme=radical" alt="WakaTime Stats"/>
+</p>
+
+---
+
+## 🏆 *GitHub Trophies*
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=theonly1ty&theme=radical&margin-w=15&row=2&column=3" alt="GitHub Trophy"/>
+</p>
 
 ---
 
