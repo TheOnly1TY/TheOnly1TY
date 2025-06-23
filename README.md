@@ -67,9 +67,9 @@ I work with various technologies to bring ideas to life:
 
 ## 📈 *WakaTime Stats*
 
-<!-- Replace 'theonly1ty' with your WakaTime username -->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TheOnly1TY&theme=radical" alt="WakaTime Stats"/>
+  <a href="https://wakatime.com/@9472c91e-bd11-4396-8b1a-f0e881f8cce5"><img src="https://wakatime.com/badge/user/9472c91e-bd11-4396-8b1a-f0e881f8cce5.svg" alt="Total time coded since Feb 15 2025" /></a>
 </p>
 
 ---
