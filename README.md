@@ -51,7 +51,7 @@ I work with various technologies to bring ideas to life:
 
 | [![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) | [![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) | [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/) | [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) | [![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com/docs) |
 |-----------------------------|-----------------------------|-----------------------------|----------------------------|----------------------------|-------------------------------|
-| [![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org/) | [![Next](https://skillicons.dev/icons?i=next)](https://nextjs.org/) | [![Styled Components](https://skillicons.dev/icons?i=styledcomponents)](https://styled-components.com/docs) 
+| [![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org/) | [![Next](https://skillicons.dev/icons?i=next)](https://nextjs.org/) | [![Styled Components](https://skillicons.dev/icons?i=styledcomponents)](https://styled-components.com/docs) | [![Solidity]((https://skillicons.dev/icons?i=solidity))]((https://www.soliditylang.org/))
 
 ---
 
