@@ -2,7 +2,7 @@
   <h1 style="color: #008afa;">👋 Hello, World! I'm Temitayo</h1>
 
 <a href="https://git.io/typing-svg"><img
-src="https://readme-typing-svg.demolab.com?font=Kanit&size=30&pause=3000&color=008AFA&background=FAFAFA00&center=true&width=600&lines=Frontend+Developer;React+Enthusiast;Lifelong+Learner;Let's+Build+Greatness+Together!"
+src="https://readme-typing-svg.demolab.com?font=Kanit&size=30&pause=3000&color=008AFA&background=FAFAFA00&center=true&width=600&lines=Frontend+Developer;Blockchain+Developer;Building+Solution!"
 alt="Typing SVG" /></a>
 
 <p>
@@ -12,16 +12,16 @@ alt="Typing SVG" /></a>
   <a href="https://linkedin.com/in/temitayo-anifowose">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/dev_temitayo">
+  <a href="https://twitter.com/dev_TEMITAYO">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="https://www.tiktok.com/@dev_temitayo1">
     <img src="https://img.shields.io/badge/Tiktok-181717?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok">
   </a>
-  <a href="mailto:anifowosetemitayo5@gmail.com">
+  <a href="mailto:devtemitayo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://wa.me/2348164948151">
+  <a href="https://wa.me/2348142858076">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
@@ -33,15 +33,15 @@ alt="Typing SVG" /></a>
 
 ![GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFxOXBxZHdoamp2bTk0OXo2NGhsdGNuc3lseW1vaXZmZzFvajFkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif)
 
-Hey! I’m *Anifowose Temitayo* 👨‍💻, an frontend developer dedicated to crafting intuitive and engaging user interfaces.  
-With a strong foundation in *HTML, **CSS, **JavaScript, **React, and **TailwindCSS I am currently deepening my expertise in **React* to build scalable, responsive web applications.
+Hey! I’m *Anifowose Temitayo* 👨‍💻, an frontend & Blockchain developer dedicated to building solutions on the web and breaking things on ethereum.  
+With a strong foundation in **React, **Nextjs, **Typescript, **TailwindCSS, and **Solidity I am currently deepening my expertise in **Blockchain* to build trustless minimized agreements on chain.
 
 ### 🎯 My 2025 Goals:
-- Master *TypeScript, **Next.js*, and venture in building application using**AI.
+- Master *Solidity, and venture in building application using **OnChain.
 - Build impactful projects and contribute to open source.
 - Collaborate with like-minded developers and grow my network.
 
-When I’m not coding, I enjoy brainstorming ideas, exploring open source, and engaging in tech conversations to improve my craft.
+When I’m not coding, I enjoy brainstorming ideas, exploring open source, and engaging in tech conversations to improve my knowledge.
 
 ---
 
@@ -56,11 +56,9 @@ I work with various technologies to bring ideas to life:
 ---
 
 ## 🚀 *What I'm Working On*
-- Advancing my *React* skills to build high-quality web applications.
-- Exploring *TypeScript, **Next.js, and **AI*.
+- Advancing my *Solidity* skills to build high-quality blockchain applications.
 - Currently working as an internship at Xynder 
-- Collaborating at *Lemren* - building the largest marketplace for cars
-- Taking on *Frontend Mentor challenges* to improve my problem-solving abilities.
+- Collaborating at *RabaPay* - the first african voice banking app
 - Learning from *senior developers*
 
 ---
