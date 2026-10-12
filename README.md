@@ -1,8 +1,8 @@
 <div align="center">
-  <h1 style="color: #008afa;">👋 Hello, World! I'm Temitayo</h1>
+  <h1 style="color: #008afa;">I'm Temitayo</h1>
 
 <a href="https://git.io/typing-svg"><img
-src="https://readme-typing-svg.demolab.com?font=Kanit&size=30&pause=3000&color=008AFA&background=FAFAFA00&center=true&width=600&lines=Frontend+Developer;Blockchain+Developer;Building+Solution!"
+src="https://readme-typing-svg.demolab.com?font=Kanit&size=30&pause=3000&color=008AFA&background=FAFAFA00&center=true&width=600&lines=Fullstack+Developer;Building+Solution!"
 alt="Typing SVG" /></a>
 
 <p>
@@ -15,31 +15,20 @@ alt="Typing SVG" /></a>
   <a href="https://twitter.com/dev_TEMITAYO">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://www.tiktok.com/@dev_temitayo1">
-    <img src="https://img.shields.io/badge/Tiktok-181717?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok">
-  </a>
   <a href="mailto:devtemitayo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://wa.me/2348142858076">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
 </div>
 
 ---
 
-## 📚 *About Me*
+## *About Me*
 
 ![GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFxOXBxZHdoamp2bTk0OXo2NGhsdGNuc3lseW1vaXZmZzFvajFkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif)
 
-Hey! I’m *Anifowose Temitayo* 👨‍💻, an frontend & Blockchain developer dedicated to building solutions on the web and breaking things on ethereum.  
-With a strong foundation in **React, **Nextjs, **Typescript, **TailwindCSS, and **Solidity I am currently deepening my expertise in **Blockchain* to build trustless minimized agreements on chain.
-
-### 🎯 My 2025 Goals:
-- Master *Solidity, and venture in building application using **OnChain.
-- Build impactful projects and contribute to open source.
-- Collaborate with like-minded developers and grow my network.
+Hey! I’m *Anifowose Temitayo* , an fullstack developer dedicated to building solutions on the web.  
+With a strong foundation in **React, **Nextjs, **Typescript, **TailwindCSS, and **NodeJS I am currently deepening my expertise in **Systems Engineering*.
 
 When I’m not coding, I enjoy brainstorming ideas, exploring open source, and engaging in tech conversations to improve my knowledge.
 
@@ -56,26 +45,8 @@ I work with various technologies to bring ideas to life:
 ---
 
 ## 🚀 *What I'm Working On*
-- Advancing my *Solidity* skills to build high-quality blockchain applications.
-- Currently working as an internship at Xynder 
-- Collaborating at *RabaPay* - the first african voice banking app
-- Learning from *senior developers*
-
----
-
-## 📈 *WakaTime Stats*
-
-
-<p align="center">
-  <a href="https://wakatime.com/@9472c91e-bd11-4396-8b1a-f0e881f8cce5"><img src="https://wakatime.com/badge/user/9472c91e-bd11-4396-8b1a-f0e881f8cce5.svg" alt="Total time coded since Feb 15 2025" /></a>
-</p>
-
----
-
-## 🏆 *GitHub Trophies*
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theonly1ty&theme=radical&margin-w=15&row=2&column=3" alt="GitHub Trophy"/>
-</p>
+- Advancing my *backend* skills to build high-quality system applications.
+- Currently working at Xynder 
 
 ---
 
