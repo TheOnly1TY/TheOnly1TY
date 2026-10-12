@@ -63,5 +63,13 @@ I work with various technologies to bring ideas to life:
 
 ---
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Emmynem/Emmynem/output/snake.svg" alt="Snake animation" />
+
+###
+
 ## ⚡ *Motto*
 *“Every line of code is a step closer to mastery. Let’s work together!”*
